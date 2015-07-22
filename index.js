@@ -1,3 +1,7 @@
+// <!-- 1. Overwrite functions
+// 2. refresh without refresh
+// 3. AI  -->
+
 window.onload=function() {
   var array = [" X ", " O ", " X ", " O ", " X ", " O ", " X ", " O ", " X "];
 
